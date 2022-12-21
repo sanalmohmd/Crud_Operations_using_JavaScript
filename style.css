@@ -1,0 +1,23 @@
+body{
+    font-family: tahoma;
+    background-color: rgb(239, 233, 157);
+}
+
+
+input[type='submit'],button,#close{
+ cursor: pointer;
+
+}
+
+.mytodo-list{
+    width: 350px;
+    margin: 100px auto; 
+}
+
+.counter{
+    margin: 10px 0;
+
+}
+ #updateform{
+    display: none;
+ }
